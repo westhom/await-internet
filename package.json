@@ -1,0 +1,31 @@
+{
+  "name": "await-internet",
+  "version": "1.0.0",
+  "description": "Promise that returns once an internet connection is detected.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/westhom/await-internet.git"
+  },
+  "author": "Wes Thom",
+  "license": "MIT",
+  "keywords": [
+    "online",
+    "offline",
+    "is-online",
+    "connectivity",
+    "internet",
+    "connected",
+    "disconnected"
+  ],
+  "bugs": {
+    "url": "https://github.com/westhom/await-internet/issues"
+  },
+  "homepage": "https://github.com/westhom/await-internet#readme",
+  "dependencies": {
+    "is-reachable": "^4.0.0"
+  }
+}
