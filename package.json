@@ -1,6 +1,6 @@
 {
   "name": "await-internet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise that returns once an internet connection is detected.",
   "main": "index.js",
   "scripts": {
